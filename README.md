@@ -1,7 +1,8 @@
 # 
 #Engez App in Flutter
 
-## Overview
+## Overview![logo](https://github.com/user-attachments/assets/f7dd6d0f-3245-44ec-af69-f9d68ffd20b5)
+
 This Flutter Engez App is designed for simplicity and usability, allowing users to efficiently manage their tasks. With engaging animations and a clean interface, it enhances the task management experience.
 
 ## Features
