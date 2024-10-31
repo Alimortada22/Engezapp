@@ -1,5 +1,4 @@
-# 
-#Engez App in Flutter
+## Engez App in Flutter
 
 ## Overview!
 
@@ -22,6 +21,12 @@ This Flutter Engez App is designed for simplicity and usability, allowing users 
 - ListTile: Clean layout for each task item.
 - IconButton: Enables quick actions on tasks.
 - AlertDialog: Facilitates easy task creation.
+
+  ## Demo Video
+  
+
+https://github.com/user-attachments/assets/a7e68809-e0ed-4d8a-b6cb-84349e9e3524
+
 
 ## Getting Started
 
